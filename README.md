@@ -10,7 +10,7 @@ A simple flappy bird game that runs on the terminal. Built on Python language an
 
 Clone the project
 ```
-git clone
+git clone https://github.com/Akil-Adnan/Flappy-Bird.git
 ```
 
 Go to project directory
